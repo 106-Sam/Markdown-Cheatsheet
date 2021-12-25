@@ -29,7 +29,7 @@ Use `for` loop
 var name = "106_Sam";
 console.log(name)
 
-```
+
 Tables
 | Table | Goes | Here |
 |--- |--- |--- |
